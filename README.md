@@ -2,7 +2,7 @@
 Two Version : English and Metric
 
 English Version: 
-It calculates the BMI program in Pounds and Inches 
+It calculates the client BMI in Pounds and Inches 
 
 Metric Version: 
-It calculates the BMI program in Kilogram and centimeters
+It calculates the client BMI in Kilogram and centimeters
